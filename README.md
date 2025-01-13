@@ -17,4 +17,4 @@
 
 
 
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: https://www.linkedin.com/in/zach-keneson-062b81123
